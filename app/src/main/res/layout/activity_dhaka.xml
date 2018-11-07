@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context="maker.app.tourtravelbd.dhaka">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textSize="20dp"
+            android:padding="5dp"
+            android:gravity="center"
+            android:text="Ahsan Manzil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/ahsan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="20dp"
+            android:text="Ahsan Manzil is a beautiful pink palace with a rich history. It dates from 1872 when it was built by Nawab Abdul Ghani, Dhaka’s wealthiest land owner at the time. Nearly two decades later, the palace was destroyed by a tornado. It was reconstructed by Lord Curzon but almost went to oblivion after his demise. In the late 1980s, Ahsan Manzil was thoroughly restored to glory. Today, various family portraits and the skull of Nawab’s favourite elephant are on display."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+

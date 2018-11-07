@@ -1,0 +1,105 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="dhaka">
+        <item>Dhaka</item>
+        <item>Narayangonj</item>
+        <item>Manikgonj</item>
+        <item>Kishoreganj</item>
+        <item>Gazipur</item>
+        <item>Narsingdi</item>
+        <item>Tangail</item>
+        <item>Faridpur</item>
+        <item>Gopalganj</item>
+        <item>Madaripur</item>
+        <item>Rajbari</item>
+        <item>Shariatpur</item>
+        <item>Munshiganj</item>
+    </string-array>
+
+    <string-array name="barishal">
+        <item>Barisal</item>
+        <item>Barguna</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+    </string-array>
+
+    <string-array name="chittagong">
+        <item>Brahmanbaria</item>
+        <item>Comilla</item>
+        <item>Chandpur</item>
+        <item>Lakshmipur</item>
+        <item>Noakhali</item>
+        <item>Cox,s Bazar</item>
+        <item>Khagrachhari</item>
+        <item>Rangamati</item>
+        <item>Bandarban</item>
+        <item>Chittagong</item>
+        <item>Feni</item>
+
+    </string-array>
+    
+    <string-array name="khulna">
+        <item>Bagerhat</item>
+        <item>Chuadanga</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Khulna</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+        <item>Meherpur</item>
+        <item>Narail</item>
+        <item>Satkhira</item>
+    </string-array>
+
+
+
+    <string-array name="rajshahi">
+        <item>Bogura</item>
+        <item>Chapainawabganj</item>
+        <item>Joypurhat</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sirajganj</item>
+    </string-array>
+    
+    <string-array name="rangpur">
+
+        <item>Thakurgaon</item>
+        <item>Rangpur</item>
+        <item>Panchagarh</item>
+        <item>Nilphamari</item>
+        <item>Lalmonirhat</item>
+        <item>Kurigram</item>
+        <item>Gaibandha</item>
+        <item>Dinajpur</item>
+
+
+    </string-array>
+
+    <string-array name="sylhet">
+
+        <item>Habiganj</item>
+        <item>Moulvibazar</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+    </string-array>
+    <string-array name="maymonsing">
+        <item>Jamalpur</item>
+        <item>Mymensingh</item>
+        <item>Netrokona</item>
+        <item>Sherpur</item>
+        <item>Sherpur</item>
+    </string-array>
+
+</resources>

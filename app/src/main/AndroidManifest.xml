@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="maker.app.tourtravelbd">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon1"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WelcomePage" />
+        <activity android:name=".dhaka" />
+        <activity android:name=".ctg" />
+        <activity android:name=".khul" />
+        <activity android:name=".raj" />
+        <activity android:name=".rang" />
+        <activity android:name=".maya" />
+        <activity android:name=".sylh" />
+        <activity android:name=".bar"></activity>
+    </application>
+
+</manifest>

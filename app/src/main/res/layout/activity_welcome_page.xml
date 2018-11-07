@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:weightSum="9"
+    android:padding="20dp"
+    tools:context="maker.app.tourtravelbd.WelcomePage">
+    <TextView
+        android:textColor="#f9f9f9"
+        android:textSize="20dp"
+        android:layout_weight="1"
+        android:text="Chosese Division"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+   <Button
+        android:id="@+id/dhakaID"
+       android:text="Dhaka"
+       android:layout_weight="1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/chittagongID"
+        android:text="Chittagong"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/khulnaID"
+        android:text="Khulna"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/rajshahiID"
+        android:text="Rajshahi"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/rangpurID"
+        android:text="Rangpur"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/mayID"
+        android:text="Mymensingh"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/sylhetID"
+        android:text="Sylhet"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/barisalID"
+        android:text="Barishal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

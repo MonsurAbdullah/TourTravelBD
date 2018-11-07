@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context="maker.app.tourtravelbd.dhaka">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textSize="20dp"
+            android:padding="5dp"
+            android:gravity="center"
+            android:text="Cox,s Bazar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/cox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="20dp"
+            android:text="Cox’s Bazar, The Tourist Capital of Bangladesh, boasts World's Longest Sea Beach, Forested Hills on Shoreline, colourful conch shells, Old Buddhist Monasteries of Ramu and dining Fresh Sea Food at Majestic Sea Side Restaurants. Blue water of the Bay of Bengal splashing on Golden Sand Beach against a backdrop of picturesque chain of hills creates an unforgettable majestic view."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
